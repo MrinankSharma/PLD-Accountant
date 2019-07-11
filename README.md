@@ -12,4 +12,4 @@ https://arxiv.org/abs/1906.03049
 
 Examples of usage are given in the file test_eps_delta.py.
 
-Note that this project using pyenv for dependency management
+Note that this project using pipenv for dependency management
